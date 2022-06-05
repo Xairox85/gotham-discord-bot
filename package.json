@@ -1,0 +1,17 @@
+{
+  "name": "gothambot",
+  "version": "1.0.0",
+  "description": "A template for Discordjs with command handler and example file.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Xairox",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "fs": "0.0.1-security",
+    "medoapi": "^1.0.5",
+    "ms": "^2.1.1"
+  }
+}
